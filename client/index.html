@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Онлайн-чат</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Контейнер для ввода имени -->
+    <div id="login-container">
+        <input type="text" id="username-input" placeholder="Введите ваше имя">
+        <button id="login-button">Войти</button>
+    </div>
+
+    <!-- Контейнер для чата, изначально скрыт -->
+    <div id="chat-container" style="display: none;">
+        <div id="chat-window"></div>
+        <div id="message-form">
+            <input type="text" id="message-input" placeholder="Введите сообщение...">
+            <button id="send-button">Отправить</button>
+        </div>
+    </div>
+
+    <script src="chat.js"></script>
+</body>
+</html>

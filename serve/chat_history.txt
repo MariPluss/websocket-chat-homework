@@ -1,0 +1,23 @@
+Marina: Привет! Проверка WebSocket
+Marina: test1
+Marina: test2
+Marina: test3
+Marina: test4
+Marina: test5
+Marina: test6
+Marina: test7
+Marina: test8
+Marina: test9
+Marina: test10
+Marina: test11
+Marina: test12
+Marina: test13
+Marina: test14
+Marina: test15
+Marina: test16
+Marina: test17
+Marina: test18
+Marina: test19
+Marina: test20
+Marina: test21
+Marina: test22
